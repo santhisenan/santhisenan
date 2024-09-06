@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 👨🏽‍🎓 I am a Masters student at Nanyang Technological University, Singapore.
-- 🔭 I’m currently working on image segmentation in brain MRIs
+- 👨🏽‍🎓 I am a Ph.D. candidate at Nanyang Technological University, Singapore.
+- 🔭 I’m currently working on modelling cell-cell communication using spatial transcriptomics data.
 
 <!--
 **santhisenan/santhisenan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
